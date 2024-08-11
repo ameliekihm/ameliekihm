@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/49078b05-5dd6-4e53-b6ee-fecbc581f78e" />
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Play&size=20&pause=1000&color=F7F7F1&background=DD5449B0&center=true&vCenter=true&width=1200&lines=%E2%9C%A8+Tech+Stack+%E2%9C%A8" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Play&size=25&pause=1000&color=F7F7F1&background=000000&center=true&vCenter=true&width=1200&lines=%E2%9C%A8+Tech+Stack+%E2%9C%A8" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Play&size=20&pause=1000&color=F7F7F1&background=DD5449B0&center=true&vCenter=true&width=1200&lines=%E2%9C%A8+In+Progress+%E2%9C%A8" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Play&size=25&pause=1000&color=F7F7F1&background=000000&center=true&vCenter=true&width=1200&lines=%E2%9C%A8+In+Progress+%E2%9C%A8" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Play&size=20&pause=1000&color=F7F7F1&background=DD5449B0&center=true&vCenter=true&width=1200&lines=%E2%9C%A8+Tools+%E2%9C%A8" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Play&size=25&pause=1000&color=F7F7F1&background=000000&center=true&vCenter=true&width=1200&lines=%E2%9C%A8+Tools+%E2%9C%A8" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Play&size=20&pause=1000&color=F7F7F1&background=DD5449B0&center=true&vCenter=true&width=1200&lines=%E2%9C%A8+Problem+Solving+%E2%9C%A8" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Play&size=25&pause=1000&color=F7F7F1&background=000000&center=true&vCenter=true&width=1200&lines=%E2%9C%A8+Problem+Solving+%E2%9C%A8" alt="Typing SVG">
 </p>
 
 <p align="center">
