@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/49078b05-5dd6-4e53-b6ee-fecbc581f78e" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Play&weight=800&size=22&pause=1000&color=000000&background=0C031700&center=true&vCenter=true&width=560&lines=%E2%9C%A8+Tech+Stack+%E2%9C%A8" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Play&weight=800&size=22&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=560&lines=%E2%9C%A8+Tech+Stack+%E2%9C%A8" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Play&weight=800&size=22&pause=1000&color=000000&background=0C031700&center=true&vCenter=true&width=560&lines=%E2%9C%A8+In+Progress+%E2%9C%A8" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Play&weight=800&size=22&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=560&lines=%E2%9C%A8+In+Progress+%E2%9C%A8" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Play&weight=800&size=22&pause=1000&color=000000&background=0C031700&center=true&vCenter=true&width=560&lines=%E2%9C%A8+Tools+%E2%9C%A8" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Play&weight=800&size=22&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=560&lines=%E2%9C%A8+Tools+%E2%9C%A8" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Play&weight=800&size=22&pause=1000&color=000000&background=0C031700&center=true&vCenter=true&width=560&lines=%E2%9C%A8+Problem+Solving+%E2%9C%A8" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Play&weight=800&size=22&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=560&lines=%E2%9C%A8+Problem+Solving+%E2%9C%A8" alt="Typing SVG">
 </p>
 
 <p align="center">
