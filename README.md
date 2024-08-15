@@ -20,10 +20,6 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components Badge">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn Badge">
-  <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="Nodemon Badge"> 
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Play&weight=800&size=22&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=560&lines=%E2%9C%A8+In+Progress+%E2%9C%A8" alt="Typing SVG">
@@ -55,6 +51,11 @@
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge">
   <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn Badge">
+  <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="Nodemon Badge"> 
 </p>
 
 <p align="center">
