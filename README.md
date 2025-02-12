@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/49078b05-5dd6-4e53-b6ee-fecbc581f78e" />
+![Image](https://github.com/user-attachments/assets/35934dc4-01fb-47d3-975a-d96143fb35ce)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Play&weight=800&size=22&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=560&lines=%E2%9C%A8+Tech+Stack+%E2%9C%A8" alt="Typing SVG">
