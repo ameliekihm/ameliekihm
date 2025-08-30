@@ -1,9 +1,9 @@
 ![Image](https://github.com/user-attachments/assets/35934dc4-01fb-47d3-975a-d96143fb35ce)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a8ac61e3-f804-4640-80b1-f033d2b4a3d4" width="250" />
-  <img src="https://github.com/user-attachments/assets/b54fb5d8-3941-4c92-aefb-ec20a6e496a3" width="220" />
+  <img src="https://github.com/user-attachments/assets/a8ac61e3-f804-4640-80b1-f033d2b4a3d4" width="230" />
+  <img src="https://github.com/user-attachments/assets/b54fb5d8-3941-4c92-aefb-ec20a6e496a3" width="205" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/9dd1e574-fc1a-4f7d-b0c3-788148d06016" width="200" />
+  <img src="https://github.com/user-attachments/assets/9dd1e574-fc1a-4f7d-b0c3-788148d06016" width="185" />
 </p>
 
 
