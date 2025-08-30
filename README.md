@@ -1,70 +1,52 @@
 ![Image](https://github.com/user-attachments/assets/35934dc4-01fb-47d3-975a-d96143fb35ce)
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Play&weight=800&size=22&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=560&lines=%E2%9C%A8+Tech+Stack+%E2%9C%A8" alt="Typing SVG">
+  <img src="https://github.com/user-attachments/assets/a8ac61e3-f804-4640-80b1-f033d2b4a3d4" width="250" />
+  <img src="https://github.com/user-attachments/assets/b54fb5d8-3941-4c92-aefb-ec20a6e496a3" width="220" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/9dd1e574-fc1a-4f7d-b0c3-788148d06016" width="200" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge">
+  <img src="https://readme-typing-svg.demolab.com?font=Play&weight=800&size=22&pause=1000&speed=150&color=000000&background=FFFFFF&center=true&vCenter=true&width=560&lines=%E2%9C%A8+Tech+Stack+%E2%9C%A8" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge">
-  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="React Query Badge">
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Badge">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
-  </p>
-  <p align="center">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" alt="Python Badge" width="95">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=000" alt="JavaScript Badge" width="120">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white" alt="TypeScript Badge" width="120">
+  <img src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB" alt="React Badge" width="82">
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Play&weight=800&size=22&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=560&lines=%E2%9C%A8+Cloud+%26+DevOps+%E2%9C%A8" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" alt="AWS Badge" width="75">
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6.svg?logo=msazure&logoColor=white" alt="Microsoft Azure Badge" width=160">
+  <img src="https://img.shields.io/badge/Terraform-844FBA.svg?logo=terraform&logoColor=white" alt="Terraform Badge" width="118">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white" alt="Kubernetes Badge" width="125">
+   <img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white" alt="Docker Badge" width="95">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Play&weight=800&size=22&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=560&lines=%E2%9C%A8+Serverless+%E2%9C%A8" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS%20Lambda-%23FF9900.svg?logo=aws-lambda&logoColor=white" alt="AWS Lambda Badge" width="140">
+  <img src="https://custom-icon-badges.demolab.com/badge/API%20Gateway-%23FF4F00.svg?logo=amazonapigateway&logoColor=white" alt="API Gateway Badge" width="110">
+  <img src="https://custom-icon-badges.demolab.com/badge/DynamoDB-%234053D6.svg?logo=amazondynamodb&logoColor=white" alt="DynamoDB Badge" width="95">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Play&weight=800&size=22&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=560&lines=%E2%9C%A8+CI/CD+%26+Tools+%E2%9C%A8" alt="Typing SVG">
 </p>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Play&weight=800&size=22&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=560&lines=%E2%9C%A8+In+Progress+%E2%9C%A8" alt="Typing SVG">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?logo=githubactions&logoColor=white" alt="GitHub Actions Badge" width="155">
+  <img src="https://img.shields.io/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white" alt="Jenkins Badge" width="100">
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D.svg?logo=argo&logoColor=white" alt="ArgoCD Badge" width="100">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter Badge">
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge">
-
- 
-  
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Play&weight=800&size=22&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=560&lines=%E2%9C%A8+Tools+%E2%9C%A8" alt="Typing SVG">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
-  <img src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode Badge">
-<img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" alt="Babel">
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" alt="Android Studio">
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge">
-  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Badge">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn Badge">
-  <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="Nodemon Badge"> 
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Play&weight=800&size=22&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=560&lines=%E2%9C%A8+Problem+Solving+%E2%9C%A8" alt="Typing SVG">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode Badge">
-</p>
