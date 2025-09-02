@@ -41,7 +41,9 @@
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D.svg?logo=argo&logoColor=white" alt="ArgoCD Badge" width="100">
 </p>
 
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ameliekihm&theme=default" alt="GitHub Streak" height="250"/>
+  <img src="https://github-readme-streak-stats-wheat-kappa.vercel.app?user=ameliekihm&theme=default" alt="GitHub Streak" height="250"/>
 </p>
+
 
